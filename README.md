@@ -1,1 +1,2 @@
-# Implicit Collaboratives-Filtering for stocks recommendation 
+# Implicit Collaboratives-Filtering for stocks recommendation by using Pyspark ALS
+
